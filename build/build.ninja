@@ -484,7 +484,7 @@ build test_monitor/src/monitor_autogen/timestamp test_monitor/src/monitor_autoge
 #############################################
 # Phony custom command for test_monitor/src/CMakeFiles/monitor_autogen_timestamp_deps
 
-build test_monitor/src/CMakeFiles/monitor_autogen_timestamp_deps | ${cmake_ninja_workdir}test_monitor/src/CMakeFiles/monitor_autogen_timestamp_deps: phony /usr/bin/uic /usr/bin/moc proto/libmonitor_proto.a rpc_manager/client/libclient.a || proto/libmonitor_proto.a proto/monitor_proto_autogen proto/monitor_proto_autogen_timestamp_deps rpc_manager/client/client_autogen rpc_manager/client/client_autogen_timestamp_deps rpc_manager/client/libclient.a
+build test_monitor/src/CMakeFiles/monitor_autogen_timestamp_deps | ${cmake_ninja_workdir}test_monitor/src/CMakeFiles/monitor_autogen_timestamp_deps: phony /usr/bin/uic /usr/bin/moc rpc_manager/client/libclient.a proto/libmonitor_proto.a || proto/libmonitor_proto.a proto/monitor_proto_autogen proto/monitor_proto_autogen_timestamp_deps rpc_manager/client/client_autogen rpc_manager/client/client_autogen_timestamp_deps rpc_manager/client/libclient.a
 
 
 #############################################
@@ -784,7 +784,7 @@ build proto/monitor_proto_autogen/timestamp proto/monitor_proto_autogen/mocs_com
 #############################################
 # Phony custom command for proto/CMakeFiles/monitor_proto_autogen_timestamp_deps
 
-build proto/CMakeFiles/monitor_proto_autogen_timestamp_deps | ${cmake_ninja_workdir}proto/CMakeFiles/monitor_proto_autogen_timestamp_deps: phony proto/cpu_load.grpc.pb.cc proto/cpu_load.grpc.pb.h proto/cpu_load.pb.cc proto/cpu_load.pb.h proto/cpu_softirq.grpc.pb.cc proto/cpu_softirq.grpc.pb.h proto/cpu_softirq.pb.cc proto/cpu_softirq.pb.h proto/cpu_stat.grpc.pb.cc proto/cpu_stat.grpc.pb.h proto/cpu_stat.pb.cc proto/cpu_stat.pb.h proto/mem_info.grpc.pb.cc proto/mem_info.grpc.pb.h proto/mem_info.pb.cc proto/mem_info.pb.h proto/monitor_info.grpc.pb.cc proto/monitor_info.grpc.pb.h proto/monitor_info.pb.cc proto/monitor_info.pb.h proto/net_info.grpc.pb.cc proto/net_info.grpc.pb.h proto/net_info.pb.cc proto/net_info.pb.h /usr/bin/uic /usr/bin/moc /usr/lib/libgrpc.so.35.0.0 /usr/lib/libgrpc++.so.1.58.0 /usr/lib/libprotobuf.so.24.2.0
+build proto/CMakeFiles/monitor_proto_autogen_timestamp_deps | ${cmake_ninja_workdir}proto/CMakeFiles/monitor_proto_autogen_timestamp_deps: phony proto/cpu_load.grpc.pb.cc proto/cpu_load.grpc.pb.h proto/cpu_load.pb.cc proto/cpu_load.pb.h proto/cpu_softirq.grpc.pb.cc proto/cpu_softirq.grpc.pb.h proto/cpu_softirq.pb.cc proto/cpu_softirq.pb.h proto/cpu_stat.grpc.pb.cc proto/cpu_stat.grpc.pb.h proto/cpu_stat.pb.cc proto/cpu_stat.pb.h proto/mem_info.grpc.pb.cc proto/mem_info.grpc.pb.h proto/mem_info.pb.cc proto/mem_info.pb.h proto/monitor_info.grpc.pb.cc proto/monitor_info.grpc.pb.h proto/monitor_info.pb.cc proto/monitor_info.pb.h proto/net_info.grpc.pb.cc proto/net_info.grpc.pb.h proto/net_info.pb.cc proto/net_info.pb.h /usr/bin/uic /usr/bin/moc /usr/lib/libgrpc.so.35.0.0 /usr/lib/libprotobuf.so.24.2.0 /usr/lib/libgrpc++.so.1.58.0
 
 
 #############################################
@@ -945,7 +945,7 @@ build display_monitor/display_autogen/timestamp display_monitor/display_autogen/
 #############################################
 # Phony custom command for display_monitor/CMakeFiles/display_autogen_timestamp_deps
 
-build display_monitor/CMakeFiles/display_autogen_timestamp_deps | ${cmake_ninja_workdir}display_monitor/CMakeFiles/display_autogen_timestamp_deps: phony /usr/bin/uic /usr/lib/libQt5Widgets.so.5.15.10 /usr/lib/libQt5Core.so.5.15.10 /usr/bin/moc proto/libmonitor_proto.a rpc_manager/client/libclient.a || proto/libmonitor_proto.a proto/monitor_proto_autogen proto/monitor_proto_autogen_timestamp_deps rpc_manager/client/client_autogen rpc_manager/client/client_autogen_timestamp_deps rpc_manager/client/libclient.a
+build display_monitor/CMakeFiles/display_autogen_timestamp_deps | ${cmake_ninja_workdir}display_monitor/CMakeFiles/display_autogen_timestamp_deps: phony /usr/bin/uic /usr/lib/libQt5Widgets.so.5.15.10 /usr/lib/libQt5Core.so.5.15.10 /usr/bin/moc rpc_manager/client/libclient.a proto/libmonitor_proto.a || proto/libmonitor_proto.a proto/monitor_proto_autogen proto/monitor_proto_autogen_timestamp_deps rpc_manager/client/client_autogen rpc_manager/client/client_autogen_timestamp_deps rpc_manager/client/libclient.a
 
 
 #############################################
