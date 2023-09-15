@@ -1,0 +1,298 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "rpc_manager",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-rpc_manager-Debug-c338362d1aa251cb72ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "rpc_manager"
+				},
+				{
+					"build" : "rpc_manager/server",
+					"jsonFile" : "directory-rpc_manager.server-Debug-2964d5ee51ac1dcc5979.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rpc_manager/server",
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "rpc_manager/client",
+					"jsonFile" : "directory-rpc_manager.client-Debug-6c00101460ba85656f36.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "rpc_manager/client",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "test_monitor",
+					"childIndexes" : 
+					[
+						5
+					],
+					"jsonFile" : "directory-test_monitor-Debug-83622498dce7a8cb9006.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "test_monitor"
+				},
+				{
+					"build" : "test_monitor/src",
+					"jsonFile" : "directory-test_monitor.src-Debug-86f9fb780845438536e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "test_monitor/src",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "proto",
+					"jsonFile" : "directory-proto-Debug-23359ce0bf7287cdf681.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "proto",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "display_monitor",
+					"jsonFile" : "directory-display_monitor-Debug-2bcdcb517334329628c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "display_monitor",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					],
+					"name" : "tests_moniter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "client::@c5510fef2a5623c24ee6",
+					"jsonFile" : "target-client-Debug-12ffd4574a2122755159.json",
+					"name" : "client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "client_autogen::@c5510fef2a5623c24ee6",
+					"jsonFile" : "target-client_autogen-Debug-a7ea7867f552cd62b74f.json",
+					"name" : "client_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "client_autogen_timestamp_deps::@c5510fef2a5623c24ee6",
+					"jsonFile" : "target-client_autogen_timestamp_deps-Debug-08472614ab610117e7e5.json",
+					"name" : "client_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "display::@ce3c620622206f7466ae",
+					"jsonFile" : "target-display-Debug-2e43652ec0498dadfc89.json",
+					"name" : "display",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "display_autogen::@ce3c620622206f7466ae",
+					"jsonFile" : "target-display_autogen-Debug-fe70096676652d0cf7e2.json",
+					"name" : "display_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "display_autogen_timestamp_deps::@ce3c620622206f7466ae",
+					"jsonFile" : "target-display_autogen_timestamp_deps-Debug-4f70726aee34ba8f62aa.json",
+					"name" : "display_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "monitor::@a0a1f1b606ca56967274",
+					"jsonFile" : "target-monitor-Debug-d7c9f3479876a52b9baa.json",
+					"name" : "monitor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "monitor_autogen::@a0a1f1b606ca56967274",
+					"jsonFile" : "target-monitor_autogen-Debug-e7e65e090ef9391f0fcb.json",
+					"name" : "monitor_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "monitor_autogen_timestamp_deps::@a0a1f1b606ca56967274",
+					"jsonFile" : "target-monitor_autogen_timestamp_deps-Debug-250a18d114b7cc72f5b0.json",
+					"name" : "monitor_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "monitor_proto::@4dcc01eb4302123f3a4a",
+					"jsonFile" : "target-monitor_proto-Debug-f5c9782a76b9bb3c73cd.json",
+					"name" : "monitor_proto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "monitor_proto_autogen::@4dcc01eb4302123f3a4a",
+					"jsonFile" : "target-monitor_proto_autogen-Debug-1ab548867734f2274eca.json",
+					"name" : "monitor_proto_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "monitor_proto_autogen_timestamp_deps::@4dcc01eb4302123f3a4a",
+					"jsonFile" : "target-monitor_proto_autogen_timestamp_deps-Debug-fe4dd19f96e6c5f0a3ee.json",
+					"name" : "monitor_proto_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "server::@bc3531dd06ebd15e3647",
+					"jsonFile" : "target-server-Debug-ad538b3203f8d5db0030.json",
+					"name" : "server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "server_autogen::@bc3531dd06ebd15e3647",
+					"jsonFile" : "target-server_autogen-Debug-a4370bbb8467a65ca8d4.json",
+					"name" : "server_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "server_autogen_timestamp_deps::@bc3531dd06ebd15e3647",
+					"jsonFile" : "target-server_autogen_timestamp_deps-Debug-0be5b71d2bad8562dceb.json",
+					"name" : "server_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kuli/private-node-master/build",
+		"source" : "/home/kuli/private-node-master"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
