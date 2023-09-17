@@ -1,0 +1,212 @@
+[
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/rpc_manager/server/server_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o rpc_manager/server/CMakeFiles/server.dir/server_autogen/mocs_compilation.cpp.o -c /home/kuli/private-node-master/build/rpc_manager/server/server_autogen/mocs_compilation.cpp",
+  "file": "/home/kuli/private-node-master/build/rpc_manager/server/server_autogen/mocs_compilation.cpp",
+  "output": "rpc_manager/server/CMakeFiles/server.dir/server_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/rpc_manager/server/server_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o rpc_manager/server/CMakeFiles/server.dir/main.cpp.o -c /home/kuli/private-node-master/rpc_manager/server/main.cpp",
+  "file": "/home/kuli/private-node-master/rpc_manager/server/main.cpp",
+  "output": "rpc_manager/server/CMakeFiles/server.dir/main.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/rpc_manager/server/server_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o rpc_manager/server/CMakeFiles/server.dir/rpc_manager.cpp.o -c /home/kuli/private-node-master/rpc_manager/server/rpc_manager.cpp",
+  "file": "/home/kuli/private-node-master/rpc_manager/server/rpc_manager.cpp",
+  "output": "rpc_manager/server/CMakeFiles/server.dir/rpc_manager.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/rpc_manager/client/client_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o rpc_manager/client/CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.o -c /home/kuli/private-node-master/build/rpc_manager/client/client_autogen/mocs_compilation.cpp",
+  "file": "/home/kuli/private-node-master/build/rpc_manager/client/client_autogen/mocs_compilation.cpp",
+  "output": "rpc_manager/client/CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/rpc_manager/client/client_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o rpc_manager/client/CMakeFiles/client.dir/rpc_client.cpp.o -c /home/kuli/private-node-master/rpc_manager/client/rpc_client.cpp",
+  "file": "/home/kuli/private-node-master/rpc_manager/client/rpc_client.cpp",
+  "output": "rpc_manager/client/CMakeFiles/client.dir/rpc_client.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/monitor_autogen/mocs_compilation.cpp.o -c /home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/mocs_compilation.cpp",
+  "file": "/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/mocs_compilation.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/monitor_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/main.cpp.o -c /home/kuli/private-node-master/test_monitor/src/main.cpp",
+  "file": "/home/kuli/private-node-master/test_monitor/src/main.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/main.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/monitor/cpu_softirq_monitor.cpp.o -c /home/kuli/private-node-master/test_monitor/src/monitor/cpu_softirq_monitor.cpp",
+  "file": "/home/kuli/private-node-master/test_monitor/src/monitor/cpu_softirq_monitor.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/monitor/cpu_softirq_monitor.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/monitor/cpu_load_monitor.cpp.o -c /home/kuli/private-node-master/test_monitor/src/monitor/cpu_load_monitor.cpp",
+  "file": "/home/kuli/private-node-master/test_monitor/src/monitor/cpu_load_monitor.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/monitor/cpu_load_monitor.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/monitor/cpu_stat_monitor.cpp.o -c /home/kuli/private-node-master/test_monitor/src/monitor/cpu_stat_monitor.cpp",
+  "file": "/home/kuli/private-node-master/test_monitor/src/monitor/cpu_stat_monitor.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/monitor/cpu_stat_monitor.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/monitor/mem_monitor.cpp.o -c /home/kuli/private-node-master/test_monitor/src/monitor/mem_monitor.cpp",
+  "file": "/home/kuli/private-node-master/test_monitor/src/monitor/mem_monitor.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/monitor/mem_monitor.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/monitor/net_monitor.cpp.o -c /home/kuli/private-node-master/test_monitor/src/monitor/net_monitor.cpp",
+  "file": "/home/kuli/private-node-master/test_monitor/src/monitor/net_monitor.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/monitor/net_monitor.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/test_monitor/src/monitor_autogen/include -I/home/kuli/private-node-master/test_monitor/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o test_monitor/src/CMakeFiles/monitor.dir/utils/read_file.cpp.o -c /home/kuli/private-node-master/test_monitor/src/utils/read_file.cpp",
+  "file": "/home/kuli/private-node-master/test_monitor/src/utils/read_file.cpp",
+  "output": "test_monitor/src/CMakeFiles/monitor.dir/utils/read_file.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/monitor_proto_autogen/mocs_compilation.cpp.o -c /home/kuli/private-node-master/build/proto/monitor_proto_autogen/mocs_compilation.cpp",
+  "file": "/home/kuli/private-node-master/build/proto/monitor_proto_autogen/mocs_compilation.cpp",
+  "output": "proto/CMakeFiles/monitor_proto.dir/monitor_proto_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/monitor_info.pb.cc.o -c /home/kuli/private-node-master/build/proto/monitor_info.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/monitor_info.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/monitor_info.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/cpu_load.pb.cc.o -c /home/kuli/private-node-master/build/proto/cpu_load.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/cpu_load.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/cpu_load.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/cpu_softirq.pb.cc.o -c /home/kuli/private-node-master/build/proto/cpu_softirq.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/cpu_softirq.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/cpu_softirq.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/cpu_stat.pb.cc.o -c /home/kuli/private-node-master/build/proto/cpu_stat.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/cpu_stat.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/cpu_stat.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/mem_info.pb.cc.o -c /home/kuli/private-node-master/build/proto/mem_info.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/mem_info.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/mem_info.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/net_info.pb.cc.o -c /home/kuli/private-node-master/build/proto/net_info.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/net_info.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/net_info.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/monitor_info.grpc.pb.cc.o -c /home/kuli/private-node-master/build/proto/monitor_info.grpc.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/monitor_info.grpc.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/monitor_info.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/cpu_load.grpc.pb.cc.o -c /home/kuli/private-node-master/build/proto/cpu_load.grpc.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/cpu_load.grpc.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/cpu_load.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/cpu_softirq.grpc.pb.cc.o -c /home/kuli/private-node-master/build/proto/cpu_softirq.grpc.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/cpu_softirq.grpc.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/cpu_softirq.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/cpu_stat.grpc.pb.cc.o -c /home/kuli/private-node-master/build/proto/cpu_stat.grpc.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/cpu_stat.grpc.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/cpu_stat.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/mem_info.grpc.pb.cc.o -c /home/kuli/private-node-master/build/proto/mem_info.grpc.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/mem_info.grpc.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/mem_info.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -I/home/kuli/private-node-master/build/proto/monitor_proto_autogen/include -I/home/kuli/private-node-master/build/proto -g -std=gnu++17 -pthread -DNOMINMAX -o proto/CMakeFiles/monitor_proto.dir/net_info.grpc.pb.cc.o -c /home/kuli/private-node-master/build/proto/net_info.grpc.pb.cc",
+  "file": "/home/kuli/private-node-master/build/proto/net_info.grpc.pb.cc",
+  "output": "proto/CMakeFiles/monitor_proto.dir/net_info.grpc.pb.cc.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/display_autogen/mocs_compilation.cpp.o -c /home/kuli/private-node-master/build/display_monitor/display_autogen/mocs_compilation.cpp",
+  "file": "/home/kuli/private-node-master/build/display_monitor/display_autogen/mocs_compilation.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/display_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/main.cpp.o -c /home/kuli/private-node-master/display_monitor/main.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/main.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/main.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/monitor_inter.cpp.o -c /home/kuli/private-node-master/display_monitor/monitor_inter.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/monitor_inter.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/monitor_inter.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/cpu_softirq_model.cpp.o -c /home/kuli/private-node-master/display_monitor/cpu_softirq_model.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/cpu_softirq_model.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/cpu_softirq_model.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/cpu_load_model.cpp.o -c /home/kuli/private-node-master/display_monitor/cpu_load_model.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/cpu_load_model.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/cpu_load_model.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/monitor_widget.cpp.o -c /home/kuli/private-node-master/display_monitor/monitor_widget.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/monitor_widget.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/monitor_widget.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/cpu_stat_model.cpp.o -c /home/kuli/private-node-master/display_monitor/cpu_stat_model.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/cpu_stat_model.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/cpu_stat_model.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/mem_model.cpp.o -c /home/kuli/private-node-master/display_monitor/mem_model.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/mem_model.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/mem_model.cpp.o"
+},
+{
+  "directory": "/home/kuli/private-node-master/build",
+  "command": "/usr/sbin/clang++ -DPROTOBUF_USE_DLLS -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/kuli/private-node-master/build/display_monitor/display_autogen/include -I/home/kuli/private-node-master/rpc_manager -I/home/kuli/private-node-master/build/proto -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -g -std=gnu++17 -pthread -DNOMINMAX -fPIC -o display_monitor/CMakeFiles/display.dir/net_model.cpp.o -c /home/kuli/private-node-master/display_monitor/net_model.cpp",
+  "file": "/home/kuli/private-node-master/display_monitor/net_model.cpp",
+  "output": "display_monitor/CMakeFiles/display.dir/net_model.cpp.o"
+}
+]
